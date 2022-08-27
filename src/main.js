@@ -112,7 +112,7 @@ const layersSetup = (layersOrder) => {
 
 const saveImage = (_editionCount) => {
   fs.writeFileSync(
-    `${buildDir}/images/${_editionCount}.png`,
+    `${basePath}/assets/${_editionCount}.png`,
     canvas.toBuffer("image/png")
   );
 };
@@ -315,7 +315,7 @@ const saveMetaDataSingleFile = (_editionCount) => {
       )
     : null;
   fs.writeFileSync(
-    `${buildDir}/json/${_editionCount}.json`,
+    `${basePath}/assets/${_editionCount}.json`,
     JSON.stringify(metadata, null, 2)
   );
 };

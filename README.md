@@ -1,5 +1,9 @@
-# Welcome to HashLips 👄
+# [Test NFT candymachine website using Sugar](https://www.solaneyes.com/address/3L2LpT3QECSZAvVE4NqWV8BxmPmXcxeNziUodLnYk8Qj#devnet)
 
+- to test, clone the repo then run
+- `yarn`
+- `yarn genrate`
+- `yarn launch && yarn mint`
 ![](https://github.com/HashLips/hashlips_art_engine/blob/main/logo.png)
 
 All the code in these repos was created and explained by HashLips on the main YouTube channel.

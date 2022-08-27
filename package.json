@@ -13,13 +13,15 @@
   },
   "scripts": {
     "build": "node index.js",
-    "generate": "node index.js",
+    "generate": "node index.js && sugar launch",
     "rarity": "node utils/rarity.js",
     "preview": "node utils/preview.js",
     "pixelate": "node utils/pixelate.js",
     "update_info": "node utils/update_info.js",
     "preview_gif": "node utils/preview_gif.js",
-    "generate_metadata": "node utils/generate_metadata.js"
+    "generate_metadata": "node utils/generate_metadata.js",
+    "launch":"sugar launch && sugar upload",
+    "mint":"sugar mint"
   },
   "author": "Daniel Eugene Botha (HashLips)",
   "license": "MIT",

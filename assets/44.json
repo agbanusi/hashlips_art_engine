@@ -1,0 +1,62 @@
+{
+  "name": "Test Collection #44",
+  "symbol": "YC",
+  "description": "Random collections",
+  "seller_fee_basis_points": 500,
+  "image": "44.png",
+  "external_url": "https://www.youtube.com/c/hashlipsnft",
+  "edition": 44,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "background1"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Middle"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Middle"
+    },
+    {
+      "trait_type": "Circle",
+      "value": "circle3"
+    },
+    {
+      "trait_type": "Triangle",
+      "value": "triangle2"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "44.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "BCYpuVbFubqDgp8kNVKJYZL5Cauv7vJePogpw6mD7RVq",
+        "share": 100
+      }
+    ]
+  }
+}
