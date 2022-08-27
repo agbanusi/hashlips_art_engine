@@ -1,9 +1,13 @@
-# [Test NFT candymachine website using Sugar](https://www.solaneyes.com/address/3L2LpT3QECSZAvVE4NqWV8BxmPmXcxeNziUodLnYk8Qj#devnet)
+# [Test Solana NFT candymachine website using Sugar](https://www.solaneyes.com/address/3L2LpT3QECSZAvVE4NqWV8BxmPmXcxeNziUodLnYk8Qj#devnet)
 
 - to test, clone the repo then run
-- `yarn`
-- `yarn genrate`
-- `yarn launch && yarn mint`
+- run `yarn` to install packages 
+- to generate new assets for nft setup run `yarn generate`
+- run `bash <(curl -sSf https://sugar.metaplex.com/install.sh)` to install sugar (candy machine v2) on mac and linux
+- to then launch the collection run `yarn launch`
+- then run `yarn mint` to mint the nfts directly from the cmd
+
+# Documentation for HashLips_Art_engine
 ![](https://github.com/HashLips/hashlips_art_engine/blob/main/logo.png)
 
 All the code in these repos was created and explained by HashLips on the main YouTube channel.
